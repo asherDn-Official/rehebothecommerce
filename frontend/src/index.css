@@ -1,0 +1,219 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f1f3f6;
+  font-family: "Roboto", sans-serif;
+}
+
+/* hover navbar dropdown arrow */
+.arrow_down {
+  border-left: 11px solid transparent;
+  border-right: 11px solid transparent;
+  border-bottom: 11px solid #fff;
+}
+/* hover navbar dropdown arrow */
+
+/* login signup sidebar bg image */
+.loginSidebar {
+  background-image: url("https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/login_img_c4a81e.png");
+  background-position: center 85%;
+  background-repeat: no-repeat;
+}
+/* login signup sidebar bg image */
+
+/* Additional CSS */
+
+@media (min-width: 1000px) {
+  .z-10 {
+    background-color: #fff9f0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .font-size-lg {
+    font-size: 22px; /* Adjust the value as needed */
+  }
+
+  .hover {
+    font-size: 50px;
+  }
+
+  .sm\:px-9 {
+    background-color: #733e34;
+    border: none;
+    color: #fff;
+  }
+
+  .sm\:px-4 {
+    height: 50px;
+    column-gap: 50px;
+  }
+
+  .newdivdlee {
+    column-gap: 30px;
+  }
+
+  .sbshshshsh {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .sm\:w-9\/12 {
+    width: 91% !important;
+  }
+  .sm\:px-9 {
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
+    height: 41px;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    border-radius: 5px;
+  }
+  .sm\:px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 6px;
+  }
+
+  .sm\:mr-4 {
+    margin-right: 1rem;
+    height: 48px;
+  }
+
+  .caterogoteresjj234j34 {
+    justify-content: center;
+    column-gap: 70px;
+  }
+
+  .cateueuiri39849 {
+    width: 100px !important;
+    height: 100px !important;
+  }
+
+  .ne2butroro {
+    background-color: #733e34;
+  }
+
+  .productDetailspajds {
+    margin-top: 22px;
+  }
+
+  .newmarginndn {
+    margin-top: 80px;
+  }
+  .maisdhj34j34j4j3412 {
+    margin-top: 42px !important;
+  }
+
+  .didbjjer {
+    margin-top: 47px !important;
+  }
+
+  .shippingdiv3223 {
+    margin-top: 100px !important;
+  }
+
+  .cartdivderr {
+    margin-top: 100px !important;
+  }
+
+  .wishlistdii43 {
+    margin-top: 47px !important;
+  }
+}
+
+.css-hwaqf3-MuiSvgIcon-root {
+  color: rgb(115, 62, 52);
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+  color: rgb(115, 62, 52);
+}
+
+.newtexthdirnjnhrjn45:hover {
+  color: rgb(115, 62, 52) !important;
+}
+
+.sm\:py-4 {
+  background-color: #fff9f0;
+}
+
+.font-size-lg {
+  color: #733e34;
+}
+#footerDarak {
+  color: #733e34;
+  font-family: Cormorant Garamond;
+  font-size: 18px;
+  line-height: 29px;
+}
+
+#manbduwhrh34u4 {
+  color: #733e34;
+  font-family: Cormorant Garamond;
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: 600;
+}
+
+.msihsdhu344 {
+  background-color: #733e34 !important;
+}
+.dhsheewjeee {
+  background-color: #733e34 !important;
+}
+
+/* Footer css */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.preireoirerooi {
+  font-family: Cormorant Garamond;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 48px;
+  text-align: center;
+}
+.msoshdndndsf {
+  font-family: Cormorant Garamond;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 30px;
+  color: black;
+  margin-top: 20px;
+}
+
+.mabdkddjdjd {
+  width: 900px;
+}
+.zzmabdkddjdjd {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.msdkjdjdjdj {
+  /* background: url("./images/privateplocybackground.png"); */
+  background: url("../public/images/privateplocybackground.png");
+}
+
+.welcome34344 {
+  font-family: Cormorant Garamond;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 40px;
+  color: #733e34;
+  text-align: center;
+  margin-top: 30px;
+}
+
+/* Footer css */
